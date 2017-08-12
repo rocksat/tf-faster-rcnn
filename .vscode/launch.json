@@ -15,6 +15,9 @@
                 "WaitOnAbnormalExit",
                 "WaitOnNormalExit",
                 "RedirectOutput"
+            ],
+            "args": [
+                "--sequence_dir=/home/asgdemo/Workspace/data/IR/170404/170404_Anatoly_01/"
             ]
         },
         {
